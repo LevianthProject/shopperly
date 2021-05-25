@@ -18,7 +18,7 @@
             <!-- svg -->
             {{ icon }}
           </div>
-          <h3 class="pl-2 text-2xl">{{ name }}</h3>
+          <h3 class="pl-2 text-sm">{{ name }}</h3>
         </div>
         </template>
       </SwiperSlider>
